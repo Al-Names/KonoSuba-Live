@@ -4,7 +4,7 @@ const Description = () => {
   return (
     <Fade duration={500}>
       <div className="center_wrapper">
-        <h2>Highlights</h2>
+        <h2>Sale!!!</h2>
         <div className="highlight_description">
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit,
